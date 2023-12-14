@@ -1,0 +1,66 @@
+h1 {
+font-family: Trebuchet MS, sans-serif;
+font-size: 27px;
+}
+
+h1:hover {
+color:red;
+}
+
+p {
+	font-family:Trebuchet MS, sans-serif;
+	font-size: 17px;
+	text-align: left;
+}
+
+h2 {
+font-family: Trebuchet MS, sans-serif;
+font-size: 27px;
+text-align: center;
+color: white;
+}
+
+h2:hover {
+color:yellow;
+}
+
+h3 {
+font-family: Trebuchet MS, sans-serif;
+font-size: 20px;
+text-align: center;
+color:	#4a4a4a;
+}
+
+
+body {
+  width: 100%;
+  background-color:#0031a3;
+} 
+
+.topnav {
+  background-color: #111;
+  overflow-x: hidden;
+ }
+ 
+.topnav a {
+  float: left;
+  padding: 14px 16px;
+  text-decoration: none;
+  text-align: center;
+  font-size: 20px;
+  font-family: Trebuchet MS, sans-serif;
+  color: #818181;
+}
+
+.topnav a:hover {
+  color: #f1f1f1;
+}
+
+a {
+color:#e8e8e8;
+}
+
+.main {
+  margin-left: 100px;
+  padding: 0px 10px;
+}
